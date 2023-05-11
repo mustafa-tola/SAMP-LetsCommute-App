@@ -1,1 +1,1 @@
-You can run this project by adding it in the src/app/main folder of your Android Studio Project
+You can run this project by adding it in the app/src/main folder of your Android Studio Project
